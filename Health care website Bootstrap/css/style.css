@@ -809,12 +809,12 @@ section {
 .doctors .member .pic {
   overflow: hidden;
   width: 180px;
-
+  height: 180px;
   border-radius: 50%;
 }
 
 .doctors .member .pic img {
-  transition: ease-in-out 0.3s;
+  transition:ease-in-out 0.3s;
 }
 
 .doctors .member:hover img {
